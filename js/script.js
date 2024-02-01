@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"February-24",
     previousMonth   :"January-24", // new addDecember
     upComingMonth   :"April 1,2024",
-    runningMealRate :52,
+    runningMealRate :250,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
